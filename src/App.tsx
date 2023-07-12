@@ -55,7 +55,7 @@ const App: Component = () => {
   return (
     <section>
       <div class="text-3xl font-bold text-center pt-4">File updater</div>
-      <div class="text-center">CTflow version: 0.7.0</div>
+      <div class="text-center">CTflow version: 0.7.1</div>
       <div class="pt-8">
         <div class="flex items-center justify-center w-1/2 mx-auto">
           <label
